@@ -3,6 +3,7 @@ Firefox browser interestingly doesn't give the options to change the background 
 
 
 Step 1: 
+
 Go to **about:support** in your search bar. Your screen should look like the following:
 
 ![image](https://user-images.githubusercontent.com/63845509/176843102-8ce5d09a-5050-4545-b664-bac7f5c97554.png)

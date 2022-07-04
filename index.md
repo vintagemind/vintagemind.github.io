@@ -22,6 +22,8 @@ You can find me in the following places: [Medium](https://medium.com/@vintagemin
   SUMO and KB contributor at [Mozilla](https://support.mozilla.org/en-US/user/VintageMind)           Aug 2021 - Current
   
 
+
+
 ### Sporting History
 
 #### Fencing
@@ -33,6 +35,8 @@ I have been fencing since I was 10 years old and I am a professional foilist (th
 
 In 2018 and 2019, I managed to get into the EMR finals (above divisions and below state) for both track and field (800m and 1500m) and cross-country (3km).
 All the events, districts, divisions, and regions competitions I have participated where hosted by [Sports School Victoria](https://www.ssv.vic.edu.au/ ) (SSV).
+
+
 In cross-country events, in order to be qualified for the next level competition, you must be top 10 into divions and regional competitions. In track and field, in order to be qualified for the next level competition, you must place first or second. 
 In cross-country, I have consistently been placed top 5 (occasional second and third place). In track and field events, I have consistentlyl been placed second (except for one first place in 800m). 
 

@@ -6,7 +6,7 @@ I am Bithiah Koshy, a sophomore at Texas Tech High School ([Texas Tech Universit
 
 Interested in fields related to computer science, web engineering, decentralization, and browser security (also anything to do with browsers). In my spare time I like to go bushwalking and bird cataloguing. Some of my more esoteric hobbies include watching classical Hollywood cinema and stamp collecting (quite difficult but I have a decent number of stamps!). A fun fact about me would be I only write in cursive (Palmer Method), unless in special circumstances.
 
-You can find me in the following places: [Medium](https://medium.com/@vintagemind%22%3EMedium), [StackOverflow](https://stackoverflow.com/users/16327123/vintagemind%22%3EStackoverflow), [Mozilla](https://support.mozilla.org/en-US/user/VintageMind), [Youtube](https://www.youtube.com/channel/UC-u8sNr9bZpf0SLW7r-FqeA), [Spotify](https://open.spotify.com/user/0ghh2eguku4lb40hgwq8m4i8y).
+You can find me in the following places: [Medium](https://medium.com/@vintagemind%22%3EMedium), [StackOverflow](https://stackoverflow.com/users/16327123/vintagemind%22%3EStackoverflow), [Mozilla](https://support.mozilla.org/en-US/user/VintageMind), [Youtube](https://www.youtube.com/channel/UC-u8sNr9bZpf0SLW7r-FqeA), and [Spotify](https://open.spotify.com/user/0ghh2eguku4lb40hgwq8m4i8y).
 
 ### School
 

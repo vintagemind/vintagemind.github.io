@@ -1,3 +1,5 @@
+[⬅️ Back](vintagemind.github.io/blog)
+
 ## Out With The Old, In With The New
 
 Hello everybody! This site/blog will be my new official homepage and "home" on the internet. My other old site was way to "trashy".

@@ -1,6 +1,6 @@
 ## About Me
 
-I am Bithiah Koshy, a sophomore at Texas Tech High School ([Texas Tech University K-12](https://www.depts.ttu.edu/k12/)). I am vIn my spare time I like to go bushwalking. Some of my more esoteric hobbies include watching classical Hollywood cinema,  and writing in cursive (Palmer Method).
+I am Bithiah Koshy, a sophomore at Texas Tech High School ([Texas Tech University K-12](https://www.depts.ttu.edu/k12/)). I am vIn my spare time I like to go bushwalking. Some of my more esoteric hobbies include watching classical Hollywood cinema,  and fencing (foilist). A fun fact about me would be I only write in cursive (Palmer Method), unless in special circumstances.
 
 ### School
 

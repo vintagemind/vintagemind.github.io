@@ -13,6 +13,19 @@ I am Bithiah Koshy, a sophomore at Texas Tech High School ([Texas Tech Universit
 ### Experience
 
   SUMO and KB contributor at [Mozilla](https://support.mozilla.org/en-US/user/VintageMind)           Aug 2021 - Current
+  
+  
+  
+### Projects
+
+Upcoming! 
+
+
+### Miscellaneous
+
+Check out my blog [here](https://saber-omega-one.vercel.app/)
+
+
 
 ### Contact
     
@@ -28,11 +41,4 @@ I am Bithiah Koshy, a sophomore at Texas Tech High School ([Texas Tech Universit
    Matrix: @vintagemind:mozilla.org
     
     
-### Projects
 
-Upcoming! 
-
-
-### Miscellaneous
-
-Check out my blog [here](https://saber-omega-one.vercel.app/)

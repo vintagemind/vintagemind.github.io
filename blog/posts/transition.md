@@ -1,4 +1,5 @@
-[⬅️ Back](vintagemind.github.io/blog)
+[⬅️ Back](https://vintagemind.github.io/blog/)
+
 
 ## Out With The Old, In With The New
 

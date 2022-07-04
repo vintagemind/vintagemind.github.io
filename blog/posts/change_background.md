@@ -1,4 +1,4 @@
-[⬅️ Back](vintagemind.github.io/)
+[⬅️ Back](vintagemind.github.io/blog)
 
 ## Changing Firefox Background
 

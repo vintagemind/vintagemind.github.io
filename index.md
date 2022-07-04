@@ -1,4 +1,4 @@
-[About](https://vintagemind.github.io/)--++--[Blog](https://vintagemind.github.io/blog/)
+[About](https://vintagemind.github.io/)--++--[Blog](https://vintagemind.github.io/blog/)--++--[Projects](https://vintagemind.github.io/projects/)
 
 ## About Me
 
@@ -40,15 +40,7 @@ All the events, districts, divisions, and regions competitions I have participat
 
 
 In cross-country events, in order to be qualified for the next level competition, you must be top 10 into divions and regional competitions. In track and field, in order to be qualified for the next level competition, you must place first or second. 
-In cross-country, I have consistently been placed top 5 (occasional second and third place). In track and field events, I have consistentlyl been placed second (except for one first place in 800m). 
-
-
-
-  
-### Projects
-
-Upcoming! 
-
+In cross-country, I have consistently been placed top 5 (occasional second and third place). In track and field events, I have consistentlyl been placed second (except for one first place in 800m).
 
 
 

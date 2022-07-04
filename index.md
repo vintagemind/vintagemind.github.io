@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/vintagemind/vintagemind.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am Bithiah Koshy, a sophomore at Texas Tech High School (Texas Tech University K-12). In my spare time I like to go bushwalking. Some of my more esoteric hobbies include watching classical Hollywood cinema and writing in cursive (Palmer Method).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Education
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

@@ -1,9 +1,7 @@
 ## Bithiah's Blog ✍🏼
 
-### Posts (From Newest To Oldest) 
+### Posts 
 
 
 
-
-
-[Out With The Old, In With The New](https://vintagemind.github.io/blog/posts/transition)
+2022-06-21: [Out With The Old, In With The New](https://vintagemind.github.io/blog/posts/transition)

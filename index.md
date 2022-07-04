@@ -53,8 +53,12 @@ Upcoming!
 ### Miscellaneous 
 
 As of now, I have a cumulative grade point average of 4.0 on a 4.0 scale.
+
+
 I was part of the [National Junior Honor Society](https://www.njhs.us/) (NJHS) from 2020 to 2022.
-Check out my blog [here](https://saber-omega-one.vercel.app/)
+
+
+Check out my blog [here](https://saber-omega-one.vercel.app/).
 
 
 

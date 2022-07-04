@@ -1,4 +1,4 @@
-[⬅️ Back](vintagemind.github.io/blog)
+[⬅️ Back](https://vintagemind.github.io/blog/) 
 
 ## Pocket Recommendations Suddenly Disappeared From Firefox Homepage
 

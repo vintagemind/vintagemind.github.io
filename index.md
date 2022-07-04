@@ -1,6 +1,6 @@
 ## About Me
 
-I am Bithiah Koshy, a sophomore at Texas Tech High School ([Texas Tech University K-12](https://www.depts.ttu.edu/k12/)). In my spare time I like to go bushwalking. Some of my more esoteric hobbies include watching classical Hollywood cinema and writing in cursive (Palmer Method).
+I am Bithiah Koshy, a sophomore at Texas Tech High School ([Texas Tech University K-12](https://www.depts.ttu.edu/k12/)). I am vIn my spare time I like to go bushwalking. Some of my more esoteric hobbies include watching classical Hollywood cinema,  and writing in cursive (Palmer Method).
 
 ### School
 
@@ -12,11 +12,27 @@ I am Bithiah Koshy, a sophomore at Texas Tech High School ([Texas Tech Universit
 
 ### Experience
 
-  SUMO and KB contributor at [Mozilla](https://support.mozilla.org/en-US/user/VintageMind)    Aug 2021 - Current
+  SUMO and KB contributor at [Mozilla](https://support.mozilla.org/en-US/user/VintageMind)           Aug 2021 - Current
 
 ### Contact
     
    Linkedin: [Bithiah Koshy](https://www.linkedin.com/in/bithiah-koshy)
+   
+   
+   
    Twitter: [vintagemind](https://twitter.com/vintagemind07)
+   
+   
+   
+   
    Matrix: @vintagemind:mozilla.org
     
+    
+### Projects
+
+Upcoming! 
+
+
+### Miscellaneous
+
+Check out my blog [here](https://saber-omega-one.vercel.app/)

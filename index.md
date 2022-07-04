@@ -2,29 +2,13 @@
 
 I am Bithiah Koshy, a sophomore at Texas Tech High School ([Texas Tech University K-12](https://www.depts.ttu.edu/k12/)). In my spare time I like to go bushwalking. Some of my more esoteric hobbies include watching classical Hollywood cinema and writing in cursive (Palmer Method).
 
-### Education
+### School
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Texas Tech High School](https://www.depts.ttu.edu/k12/) (2020 current)
 
-```markdown
-Syntax highlighted code block
+[Glendal Primary School](https://www.glendalps.vic.edu.au) (2014 2019)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Bishop Cotton Girls' School](http://www.bishopcottongirls.com) (2011 2013)
 
 ### Jekyll Themes
 

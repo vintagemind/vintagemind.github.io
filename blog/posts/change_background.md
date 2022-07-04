@@ -1,3 +1,4 @@
+## Changing Firefox Background
 
 Firefox browser interestingly doesn't give the options to change the background into your desired wallpaper unlike Chrome. This works for macOS but not sure about others. Below are a few simple steps on how to do so. But I must warn you it is best to use addons because if something goes wrong, it will be a huge mess.
 

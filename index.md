@@ -4,11 +4,11 @@ I am Bithiah Koshy, a sophomore at Texas Tech High School ([Texas Tech Universit
 
 ### School
 
-  [Texas Tech High School](https://www.depts.ttu.edu/k12/) (2020 current)
+  [Texas Tech High School](https://www.depts.ttu.edu/k12/) (2020 - current)
 
-  [Glendal Primary School](https://www.glendalps.vic.edu.au) (2014 2019)
+  [Glendal Primary School](https://www.glendalps.vic.edu.au) (2014 - 2019)
 
-  [Bishop Cotton Girls' School](http://www.bishopcottongirls.com) (2011 2013)
+  [Bishop Cotton Girls' School](http://www.bishopcottongirls.com) (2011 - 2013)
 
 ### Experience
 

@@ -40,17 +40,22 @@ All the events, districts, divisions, and regions competitions I have participat
 In cross-country events, in order to be qualified for the next level competition, you must be top 10 into divions and regional competitions. In track and field, in order to be qualified for the next level competition, you must place first or second. 
 In cross-country, I have consistently been placed top 5 (occasional second and third place). In track and field events, I have consistentlyl been placed second (except for one first place in 800m). 
 
+
+
   
 ### Projects
 
 Upcoming! 
 
 
-### Miscellaneous
+
+
+### Miscellaneous 
 
 As of now, I have a cumulative grade point average of 4.0 on a 4.0 scale.
 I was part of the [National Junior Honor Society](https://www.njhs.us/) (NJHS) from 2020 to 2022.
 Check out my blog [here](https://saber-omega-one.vercel.app/)
+
 
 
 ### Contact

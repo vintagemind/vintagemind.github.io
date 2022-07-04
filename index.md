@@ -1,3 +1,5 @@
+[About](https://vintagemind.github.io/)--++--[Blog](https://vintagemind.github.io/blog/)
+
 ## About Me
 
 I am Bithiah Koshy, a sophomore at Texas Tech High School ([Texas Tech University K-12](https://www.depts.ttu.edu/k12/)). I am a [hobbyist programmer](https://open.kattis.com/users/vintagemind), into ornithology, ex-competitive [Australian national fencer](https://www.ausfencing.org/biography/afb-2550/), and a curious person without showing it. 
@@ -56,9 +58,6 @@ As of now, I have a cumulative grade point average of 4.0 on a 4.0 scale.
 
 
 I was part of the [National Junior Honor Society](https://www.njhs.us/) (NJHS) from 2020 to 2022.
-
-
-Check out my blog [here](https://saber-omega-one.vercel.app/).
 
 
 

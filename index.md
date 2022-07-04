@@ -4,17 +4,16 @@ I am Bithiah Koshy, a sophomore at Texas Tech High School ([Texas Tech Universit
 
 Interested in fields related to computer science, web engineering, decentralization, and browser security (also anything to do with browsers). In my spare time I like to go bushwalking and bird cataloguing. Some of my more esoteric hobbies include watching classical Hollywood cinema and fencing (foilist). A fun fact about me would be I only write in cursive (Palmer Method), unless in special circumstances.
 
+You can find me in the following places: [Medium](https://medium.com/@vintagemind%22%3EMedium), [StackOverflow](https://stackoverflow.com/users/16327123/vintagemind%22%3EStackoverflow), [Mozilla](https://support.mozilla.org/en-US/user/VintageMind), and [Youtube](https://www.youtube.com/channel/UC-u8sNr9bZpf0SLW7r-FqeA).
 
 ### School
 
   [Texas Tech High School](https://www.depts.ttu.edu/k12/) (2020 - current)
-
+        
   [Glendal Primary School](https://www.glendalps.vic.edu.au) (2014 - 2019)
 
   [Bishop Cotton Girls' School](http://www.bishopcottongirls.com) (2011 - 2013)
   
-   As of now, I have a cumulative grade point average of 4.0 on a 4.0 scale.
-   I was part of the National Junior Honor Society (NJHS) from 2020 to 2022.
    
    
   
@@ -45,8 +44,9 @@ Upcoming!
 
 ### Miscellaneous
 
+As of now, I have a cumulative grade point average of 4.0 on a 4.0 scale.
+I was part of the [National Junior Honor Society](https://www.njhs.us/) (NJHS) from 2020 to 2022.
 Check out my blog [here](https://saber-omega-one.vercel.app/)
-
 
 
 ### Contact

@@ -16,7 +16,7 @@ I am Bithiah Koshy, a sophomore at Texas Tech High School ([Texas Tech Universit
 
 ### Contact
     
-    Linkedin: [Bithiah Koshy](https://www.linkedin.com/in/bithiah-koshy)
-    Twitter: [vintagemind](https://twitter.com/vintagemind07)
-    Matrix: @vintagemind:mozilla.org
+   Linkedin: [Bithiah Koshy](https://www.linkedin.com/in/bithiah-koshy)
+   Twitter: [vintagemind](https://twitter.com/vintagemind07)
+   Matrix: @vintagemind:mozilla.org
     

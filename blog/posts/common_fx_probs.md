@@ -1,3 +1,5 @@
+[⬅️ Back](vintagemind.github.io/)
+
 ## Useful Firefox Articles and Discussions
 
 This post is really for my own reference but it may be useful to you:

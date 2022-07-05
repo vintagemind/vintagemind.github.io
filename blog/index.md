@@ -1,3 +1,5 @@
+[⬅️ Back](https://vintagemind.github.io/blog/)
+
 ## Bithiah's Blog ✍🏼
 
 ### Posts 

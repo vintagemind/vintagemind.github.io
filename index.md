@@ -1,4 +1,4 @@
-# [About](https://vintagemind.github.io/)----[Blog](https://vintagemind.github.io/blog/)----[Projects](https://vintagemind.github.io/projects/)
+# [About](https://vintagemind.github.io/)---[Blog](https://vintagemind.github.io/blog/)---[Projects](https://vintagemind.github.io/projects/)
 
 ## About Me
 

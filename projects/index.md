@@ -2,5 +2,5 @@
 
 ## Projects
 
-### [Mozilla Support TCP/ETP Project](https://wiki.mozilla.org/Support/TCP-ETP)
+### [Mozilla - TCP/ETP Project (SUMO)](https://wiki.mozilla.org/Support/TCP-ETP)
 

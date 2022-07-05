@@ -30,7 +30,7 @@ You can find me in the following places: [Medium](https://medium.com/@vintagemin
 
 #### Fencing
 
-I have been fencing since I was 10 years old and I am a professional foilist (though I can fence sabre). My biggest achievements so far would be getting two national medals in the Australian National Junior (U20) Championships. I achieved silver medal in Womens' Sabre Team and bronze medal in Womens' Foil Team. I have won numerous Victorian state and state championship medals in foil U15, U17, U20 age groups over the years.   
+I have been fencing since I was 10 years old and I am a professional foilist (though I can fence sabre). My biggest achievements so far would be getting two national medals in the 2020 Australian National Junior (U20) Championships. I achieved silver medal in Womens' Sabre Team and bronze medal in Womens' Foil Team. I have won numerous Victorian state and state championship medals in foil U15, U17, U20 age groups over the years.   
 
 
 #### Track and Field & Cross-Country

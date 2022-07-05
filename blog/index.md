@@ -1,4 +1,4 @@
-[⬅️ Back](https://vintagemind.github.io/blog/)
+[⬅️ Back](https://vintagemind.github.io/)
 
 ## Bithiah's Blog ✍🏼
 

@@ -1,6 +1,6 @@
 [⬅️ Back](https://vintagemind.github.io/)
 
-## [Recognition]((https://vintagemind.github.io/random/recognition)
+## [Recognition](https://vintagemind.github.io/random/recognition)
 
 
 ## [School related](https://vintagemind.github.io/random/school) 

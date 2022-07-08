@@ -112,8 +112,8 @@ _What advantages do large corporations have over small businesses?_
 
 Large corporations could invest in new technologies, hire large workforces, and purchase machines. This greatly increased their efficiency. Big corporations compared with small business had several unbeatable advantages. They could produce more goods at a lower cost, could stay open in bad economic times, and had rebates from the railroads, which lowered their operating costs. 
 
-_Why did workers try to form unions in the late 1800's?
-_
+_Why did workers try to form unions in the late 1800's?_
+
 Workers from unions in the late 1800s because they believed they needed a union to bargain for higher wages and better working conditions. 
 
 
@@ -216,20 +216,20 @@ _What was the primary goal of Progressive Era muckrakers?_
 
 The muckrakers were a group of journalists who investigated social conditions and political corruption. They were among the first to articulate progressive ideas. Their primary goal was to expose the injustices in the society and to expose corruption and wrongdoing in established institutions.
 
-_How did the Progressives support the women's suffrage movement? _
+_How did the Progressives support the women's suffrage movement?_
 
 The woman suffrage movement was quite slow as the movement split into two groups at some point in time. Progressives argued that women's suffrage wasn't unfeminine and immoral. Progressives supported the women's suffrage movement because they believe it would help advance the goals of the Progressive movement. Women suffragists created associations. Few ways progressives supported women suffrage would be through lobbying, organizing events, handing out pamphlets, and delivering speeches. 
 
-_What problems did social-welfare programs attempt to reform? _
+_What problems did social-welfare programs attempt to reform?_
 
 They wanted to encourage the government to enact social policies to improve work on crime, illiteracy, alcohol abuse, child labor, and health and safety of Americans. They pushed for laws that would ease these issues. 
 
-_Which approach did Roosevelt take toward regulating big business? _
+_Which approach did Roosevelt take toward regulating big business?_
 
 He convinced the Congress to create the Department of Commerce and Labor. This department's job was to investigate holding companies and large cooperations. This gave Roosevelt the ability to regulate big business without having to sacrifice economic efficiency by breaking up the trusts. He pushed for certain acts, such as the Hepburn Act, so that it could help strengthen the Interstate Commerce Commission and take on trusts. He wasn't fully against big business organizations, but he also knew that the monopoly power of some trusts hurt the public interest. So, he limited powers of big business at the same time, not completely destroying or busting trusts completely.
 
-_How did President Taft's beliefs differ from the progressives' beliefs? 
-_
+_How did President Taft's beliefs differ from the progressives' beliefs?_
+
 There were two kinds of Republicans, the progressive and the conservative type. The progressive favored tariff reduction/ lower tariffs while the conservatives wanted to maintain high tariffs. President Taft's support for tariff reduction was predominantly low. He signed into law the Payne-Aldrich Tariff, which hardly cut tariffs at all and in fact actually raised them on some goods. He also fired Pinchot and replaced Pinchot with a very aggressive conservative, Ballinger. These two actions immensely angered progressives. I believe that President Taft was far too conservative (for progressives) and almost had complete opposite beliefs from the progressives.
 
 _What do you believe were Progressives most important success and biggest failure?_
@@ -256,11 +256,11 @@ _What were some new agencies that Congress established to help manage wartime ec
 
 The War Industries Board was to coordinate the purchase of war supplies. The organization encouraged companies to use mass-production techniques to increase efficiency and urged them to eliminate waste by standardizing products. The Food Administration was the responsible agency for the administration of the U.S. Army overseas and allies' food reserves National War Labor Board (NWLB) in April 1918. The NWLB often pressured industry to improve wages, adopt an eight-hour workday, and allow unions the right to organize and bargain collectively.
 
-_How did progressive ideas influence the roles of women during World War I? _
+_How did progressive ideas influence the roles of women during World War I?_
 
  Women were now seen as able to work in the workforce. After the war, women who worked could now support themselves without getting married to a man. Women no longer had to be stay-at-home parent or housewives.
 
-_What new technologies were introduced in World War I, and how did they impact the war? _
+_What new technologies were introduced in World War I, and how did they impact the war?_
 
 Poison gas was the first to be used and so were aircraft in World War 1. Armored tanks also came out during WW1, but it was too slow and unreliable to revolutionize warfare. Two new types of warfare came into action: chemical warfare and trench warfare. Also, powerful artillery guns (machine guns) could kill the enemy at a much faster rate than any weapon at the time. Also, you could shoot from a far range/distance, which proved helpful. The new technologies impacted the war significantly. On both sides, it resulted in the loss of hundreds of thousands of men with very little achievement.
 

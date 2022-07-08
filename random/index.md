@@ -8,8 +8,3 @@
 
 ## [Bookshelf](https://vintagemind.github.io/random/booklist)
 
-
-## My Old Hollywood Movie List
-
-
-## Gaming related

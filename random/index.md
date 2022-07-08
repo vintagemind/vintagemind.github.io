@@ -1,6 +1,6 @@
 [⬅️ Back](https://vintagemind.github.io/)
 
-## School related
+## [School related](https://vintagemind.github.io/random/school) 
   My thoughts on various subjects, etc.
 
 

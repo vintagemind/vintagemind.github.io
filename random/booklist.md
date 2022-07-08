@@ -1,4 +1,4 @@
-[⬅️ Back](https://vintagemind.github.io/)
+[⬅️ Back](https://vintagemind.github.io/random)
 
 ## Bookshelf
 

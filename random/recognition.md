@@ -3,7 +3,7 @@
 
 ## Recognition
 
-### Work
+### Work 🦊
 
 [What's up with SUMO May (2022)](https://blog.mozilla.org/sumo/2022/05/30/whats-up-with-sumo-may/)
 

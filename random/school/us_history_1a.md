@@ -1,3 +1,6 @@
+[⬅️ Back](https://vintagemind.github.io/random/school)
+
+
 ## Notes on US History 1A
 
 **Disclaimer:** Plagiarism is unethical but you may copy my notes for your own learning, not for cheating. I hope you understand the difference 😇.

@@ -248,7 +248,7 @@ _How did the complex web of European alliances contribute to the outbreak of Wor
 
 Countries within an alliance were loyal to each other. So when one country had a conflict with another, it led to allied countries having conflicts with other allied countries. Therefore, naturally when European countries were entangled in alliances, conflicts were bond to happen.The Triple Alliance (Germany, Italy, and Austria-Hungary) alarmed the Russians, and Russia and Austria-Hungary were competing for influence in southeastern Europe. France and Russia opposed Germany and Austria-Hungary, which led the two countries to form an alliance called the Franco-Russian Alliance. Germany was building a large modern navy, and this threatened Britain, so Britain built closer ties with France and Russia. This informal alliance became known as the Triple Ente. So the Triple Ente as against the Triple Alliance and the Triple Alliance was against the Triple Ente. If anyone country felt threatened by an "opposing country", a war will erupt (whether it is small or big).
 
-_How did Germany's use of unrestricted submarine warfare bring the United States into World War I? _
+_How did Germany's use of unrestricted submarine warfare bring the United States into World War I?_
 
 A German U-boat had sunk the British passenger ship (the Lusitania) at a great loss of life. Unrestricted submarine warfare was suspended following public outcry in the US, but was reinstated in 1917. This eventually led to the American declaration of war on Germany. 
 
@@ -264,7 +264,7 @@ _What new technologies were introduced in World War I, and how did they impact t
 
 Poison gas was the first to be used and so were aircraft in World War 1. Armored tanks also came out during WW1, but it was too slow and unreliable to revolutionize warfare. Two new types of warfare came into action: chemical warfare and trench warfare. Also, powerful artillery guns (machine guns) could kill the enemy at a much faster rate than any weapon at the time. Also, you could shoot from a far range/distance, which proved helpful. The new technologies impacted the war significantly. On both sides, it resulted in the loss of hundreds of thousands of men with very little achievement.
 
-_How did the arrival of American troops affect German attitudes about the war? _
+_How did the arrival of American troops affect German attitudes about the war?_
 
 Nearly two million American troops marched into the Western Front. Even though the American troops were inexperienced, they were determined and eager to fight. As the Americans arrived, many in Germany concluded that the war was lost. I believe German attitudes about the war weren't at all optimistic as the number of American troops was a substantial number for the Germans. 
 

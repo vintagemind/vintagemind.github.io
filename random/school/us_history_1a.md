@@ -226,7 +226,8 @@ They wanted to encourage the government to enact social policies to improve work
 
 _Which approach did Roosevelt take toward regulating big business?_
 
-He convinced the Congress to create the Department of Commerce and Labor. This department's job was to investigate holding companies and large cooperations. This gave Roosevelt the ability to regulate big business without having to sacrifice economic efficiency by breaking up the trusts. He pushed for certain acts, such as the Hepburn Act, so that it could help strengthen the Interstate Commerce Commission and take on trusts. He wasn't fully against big business organizations, but he also knew that the monopoly power of some trusts hurt the public interest. So, he limited powers of big business at the same time, not completely destroying or busting trusts completely.
+He convinced the Congress to create the Department of Commerce and Labor. This department's job was to investigate holding companies and large corporations
+. This gave Roosevelt the ability to regulate big business without having to sacrifice economic efficiency by breaking up the trusts. He pushed for certain acts, such as the Hepburn Act, so that it could help strengthen the Interstate Commerce Commission and take on trusts. He wasn't fully against big business organizations, but he also knew that the monopoly power of some trusts hurt the public interest. So, he limited powers of big business at the same time, not completely destroying or busting trusts completely.
 
 _How did President Taft's beliefs differ from the progressives' beliefs?_
 

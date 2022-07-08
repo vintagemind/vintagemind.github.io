@@ -1,11 +1,10 @@
 [⬅️ Back](https://vintagemind.github.io/)
 
+## [Recognition]((https://vintagemind.github.io/random/recognition)
+
+
 ## [School related](https://vintagemind.github.io/random/school) 
   My thoughts on various subjects, etc.
-
-
-## Gaming related
-   Nethack and BOTW only
 
 
 ## [Bookshelf](https://vintagemind.github.io/random/booklist)
@@ -14,3 +13,7 @@
 
 ## My Old Hollywood Movie List
    Why not?
+
+
+## Gaming related
+   Nethack and BOTW only

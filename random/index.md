@@ -8,7 +8,7 @@
    Nethack and BOTW only
 
 
-## Bookshelf
+## [Bookshelf](https://vintagemind.github.io/random/booklist)
    Read, read, read, and read. It is a very important skill and the value of reading will only show in the long run.
 
 

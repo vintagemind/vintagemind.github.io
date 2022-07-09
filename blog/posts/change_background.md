@@ -15,7 +15,7 @@ Go to **about:support** in your search bar. Your screen should look like the fol
 
 Step 2:
 
-Click the Show in Finder button next to Profile Folder. Create a folder called **Chrome** in the **nhtg6jgg.default-release** folder. Your screen should look like the below:
+Click the Show in Finder button next to Profile Folder. Create a folder called **Chrome** in the **xxxxxxxx.default-release** folder. Your screen should look like the below:
 
 ![image](https://user-images.githubusercontent.com/63845509/176843195-39c978fb-d516-4320-a790-ebc9005225c9.png)
 

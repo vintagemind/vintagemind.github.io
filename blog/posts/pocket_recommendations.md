@@ -17,6 +17,7 @@ As you can [see](https://support.mozilla.org/en-US/questions/1370851#answer-1490
 This is not a very recommended solution in the sense that you always need to be extremely carefully when going and changing settings in about:config. Because, if you accidentally change some very important configurations, the result won't be nice at all...so do at your own risk please. 
 
 1) Try first to delete Firefox and reinstall. 
+
 2) If the above didn't work, go to **about:config** and set "**browser.newtabpage.activity-stream.feeds.system.topstories**" to **true**.
 
 Hope that gives your "Recommended By Pocket" option back in settings. 

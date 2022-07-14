@@ -5,6 +5,8 @@
 
 ### Work 🦊
 
+[What’s up with SUMO July (2022)](https://blog.mozilla.org/sumo/2022/07/11/whats-up-with-sumo-july/)
+
 [What's up with SUMO May (2022)](https://blog.mozilla.org/sumo/2022/05/30/whats-up-with-sumo-may/)
 
 [What's up with SUMO April (2022)](https://blog.mozilla.org/sumo/2022/04/11/whats-up-with-sumo-april-2022/)

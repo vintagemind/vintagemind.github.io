@@ -20,6 +20,8 @@ Classic Westerns: Zane Grey [p]
 
 Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger [p]
 
+The Intelligent Investor [p]
+
 The Austrian School of Economics A History of Its Ideas, Ambassadors, & Institutions [p]
 
 The Count of Monte Cristo [p]

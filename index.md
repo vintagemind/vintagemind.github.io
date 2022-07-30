@@ -21,9 +21,10 @@ You can find me in the following places: [Medium](https://medium.com/@vintagemin
   
 ### Experience
 
-  SUMO and KB contributor at [Mozilla](https://support.mozilla.org/en-US/user/VintageMind)           (Aug 2021 - Current)
+  SUMO, Social, and KB contributor at [Mozilla](https://support.mozilla.org/en-US/user/VintageMind)           (Aug 2021 - Current)
   
-
+  Open Library Developer at [Internet Archive](https://archive.org/about/volunteerpositions.php)           (Jul 2022 - Current)
+ 
 
 
 ### Sporting History
